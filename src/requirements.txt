@@ -15,7 +15,7 @@ keyrings.alt==3.0
 numpy==1.22.0
 packaging==20.9
 pandas==1.2.3
-Pillow==10.2.0
+Pillow==10.3.0
 pybind11==2.6.2
 pycrypto==2.6.1
 pyparsing==2.4.7
